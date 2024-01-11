@@ -1,1 +1,1 @@
-Voici les exercices fait en pithon en cour d'algorithme elles se trouve dans les branches
+Voici les exercices fait en pithon en cour d'algorithme elles se trouve en cliquant sur "intro"
