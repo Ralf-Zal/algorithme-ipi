@@ -1,3 +1,6 @@
+#Notes Faîtes saisir une note sur 20, de type réel.
+#Convertissez cette note en lettre selon le tableau ci-dessous et affichez la lettre qui correspond à la note.
+#Note <= 5 Lettre E 5 < Note <= 8 Lettre D 8 < Note <= 11 Lettre C 11 < Note <= 14 Lettre B 14 < Note Lettre A
 while True :
     note = float(input("entré la note de l'élève : "))
     if note <= 5 and note >= 0:
